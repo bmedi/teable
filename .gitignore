@@ -71,3 +71,5 @@ pnpm-debug.log*
 # LocalStorage assets
 
 **/.assets
+dockers/.env
+monorepo.code-workspace

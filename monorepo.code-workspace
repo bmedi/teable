@@ -100,5 +100,9 @@
       "univerjs",
       "zustand",
     ],
+    "i18n-ally.localesPaths": [
+      "src/lib/i18n",
+      "src/features/i18n"
+    ],
   },
 }
